@@ -1,0 +1,7 @@
+opencv-python
+vispy
+moviepy
+transforms3d
+networkx
+scikit-image
+matplotlib
